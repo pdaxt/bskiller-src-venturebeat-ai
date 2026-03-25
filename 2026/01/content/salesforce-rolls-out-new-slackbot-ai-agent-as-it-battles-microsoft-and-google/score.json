@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.0,
+  "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-25T14:21:05Z",
+  "scoring_method": "heuristic",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "VentureBeat AI classified as tier_3 (mid-tier source, reliability: 60%); 17 source links cited"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 6.4788,
+      "weight": 0.2,
+      "rationale": "weak credibility signals (1.5); contains data/benchmark references; 2447 words (depth +1.0); high citation density (6.9/1k words)"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 3.5,
+      "weight": 0.15,
+      "rationale": "methodology described"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 5.5,
+      "weight": 0.15,
+      "rationale": "includes counterarguments (balanced perspective)"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 1.0,
+      "weight": 0.15,
+      "rationale": "very high hype (10.0/10) -- claim far ahead of consensus; 5 vague patterns -- highly uncertain consensus; 17 references cited -- broad sourcing; contains counterarguments (contested area)"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 2.5,
+      "weight": 0.1,
+      "rationale": "5 vague patterns: on the roadmap, up to , might be, will reach, is going to; heavy hype language reduces specificity; 3 percentage figures (highly specific)"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 2.5,
+      "weight": 0.1,
+      "rationale": "VentureBeat AI: mixed track record; 9 red flags detected (track record penalty: -3); 2 green flags detected (+1.0)"
+    }
+  ]
+}
