@@ -1,0 +1,17 @@
+{
+  "id": "6bb446d6-c6b2-42c0-8079-0a7afbe35494",
+  "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+  "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+  "source_name": "VentureBeat AI",
+  "published_at": "2026-01-19T14:00:00+00:00",
+  "scraped_at": "2026-03-21 02:48:35",
+  "bs_score": 5.7,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "news",
+  "ai_summary": "Sensationalized headline masks misleading comparison: Goose and Claude Code serve different architectures and maturity levels. 'Free' ignores infrastructure costs, and 'does the same thing' is unsupported by evidence.",
+  "approved": true,
+  "author_name": null
+}
