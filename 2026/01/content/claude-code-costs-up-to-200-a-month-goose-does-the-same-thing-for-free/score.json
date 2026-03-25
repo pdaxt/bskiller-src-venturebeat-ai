@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.7,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T14:13:55.727680+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:21:04Z",
+  "scoring_method": "heuristic",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "VentureBeat AI classified as tier_3 (mid-tier source, reliability: 60%); 76 source links cited"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 6.412,
+      "weight": 0.2,
+      "rationale": "weak credibility signals (2.0); contains data/benchmark references; 2280 words (depth +0.9); high citation density (33.3/1k words)"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 4.5,
+      "weight": 0.15,
+      "rationale": "open source / code available; contains data tables/figures; proprietary/closed approach"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "no overt promotional language in this VentureBeat AI piece, independence unconfirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 2.2,
+      "weight": 0.15,
+      "rationale": "very high hype (10.0/10) -- claim far ahead of consensus; 1 vague patterns suggest uncertain consensus; 76 references cited -- broad sourcing"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 3.5,
+      "weight": 0.1,
+      "rationale": "1 vague patterns: up to ; heavy hype language reduces specificity; 4 percentage figures (highly specific); contains data tables/figures"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 3.5,
+      "weight": 0.1,
+      "rationale": "VentureBeat AI: mixed track record; 3 red flags detected (track record penalty: -3); 6 green flags detected (+2.0)"
+    }
+  ]
 }
