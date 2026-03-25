@@ -1,7 +1,13 @@
 {
+  "version": "1.0",
   "source_name": "Venturebeat Ai",
   "repo": "bskiller-src-venturebeat-ai",
   "story_count": 7,
-  "last_updated": "2026-03-25T07:31:16Z",
-  "months": ["2026-01"]
+  "last_updated": "2026-03-25T08:59:09Z",
+  "months": [
+    {
+      "month": "2026-01",
+      "story_count": 7
+    }
+  ]
 }
